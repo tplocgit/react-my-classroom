@@ -35,12 +35,7 @@ export default function App() {
         return (
             <div className='container-fluid'>
                 <TopNavBar brandName="My Classrooms" />
-                <div sx={{
-                    width:'100%',
-                    display: 'flex',
-                    justifyContent: 'center'
-                }} 
-                className="container">
+                <div className="container">
                     <ClassroomsList items={items}/>
                 </div>
             </div>

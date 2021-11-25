@@ -1,5 +1,6 @@
 {
   "name": "tploc1305-my-classroom",
+  "homepage": "https://tplocgit.github.io/react-my-classroom/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
